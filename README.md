@@ -1,8 +1,8 @@
 # Project Title
-CreditWise Loan System
+CreditWise Loan System.
 
 # Description
 This system predicts loan eligibilty using Machine Learning.
 
 # Note
-Dataset was not include due to big size
+Dataset was not include due to big size.
